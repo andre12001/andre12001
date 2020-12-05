@@ -1,10 +1,6 @@
-![Cover](https://raw.githubusercontent.com/fachryansyah/fachryansyah/master/cover.png)
+![Cover](https://raw.githubusercontent.com/andre12001/andre12001/main/cover.png)
 ### My GitHub Stats
-![Fahri's github stats](https://github-readme-stats.vercel.app/api?username=fachryansyah&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
-
-<!-- ![Fahri's Coding stats](https://wakatime.com/share/@7d82f9d3-8407-442a-8019-175d436a3f0f/0ab23028-8fae-44f2-8117-780f30d2c673.svg) -->
-<!--
-**fachryansyah/fachryansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![andre12001 github stats](https://github-readme-stats.vercel.app/api?username=andre12001&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
 
 Here are some ideas to get you started:
 
