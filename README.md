@@ -4,9 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Duty
+- 🔭 I am a student
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Github
-- 💬 Ask me about I am a junior high school student, my hobbies are blogger, programming, youtube
 -->
